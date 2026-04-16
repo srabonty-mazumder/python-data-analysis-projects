@@ -1,2 +1,58 @@
-# python-data-analysis-projects
-Python-based data analysis projects using Pandas, NumPy, and visualization tools, focusing on exploratory data analysis and insights.
+# 📊 Python Data Analysis Projects
+
+This repository contains my data analysis projects built using Python and Google Colab. The focus of these projects is on exploratory data analysis (EDA), identifying patterns, and generating insights from real datasets.
+
+---
+
+## 🚀 Tools & Technologies
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Google Colab  
+
+---
+
+## 📁 Projects
+
+### 🔹 Exploratory Data Analysis Project
+- Cleaned and processed raw data using Pandas  
+- Performed exploratory data analysis to identify patterns and trends  
+- Created visualizations to communicate insights clearly  
+- Generated meaningful conclusions from data  
+
+👉 Open in Colab:  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H04YgEKdaQcT9slvJt47FSLWoztwnS9q)
+
+---
+
+### 🔹 Data Analysis Project 2
+- Worked with structured datasets  
+- Identified key trends and insights using Python  
+- Used data visualization techniques to present findings  
+- Focused on data-driven decision-making  
+
+👉 Open in Colab:  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16HEmHtdJjrmBHwEogzckixlcbs1U89bT)
+
+---
+
+## 📈 Key Skills Demonstrated
+- Data Cleaning and Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Insight Generation  
+- Analytical Thinking  
+
+---
+
+## 🎯 About Me
+I am a Business Information Technology student at Haaga-Helia University of Applied Sciences with a growing interest in data analytics and data-driven decision-making. I enjoy working with data to uncover insights and continuously improving my technical skills in Python, SQL, and analytics tools.
+
+---
+
+## 🔗 Connect with Me
+- GitHub: https://github.com/srabonty-mazumder  
+- LinkedIn: https://www.linkedin.com/in/srabonty/
+
