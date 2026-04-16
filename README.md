@@ -28,10 +28,11 @@ This repository contains my data analysis projects built using Python and Google
 ---
 
 ### 🔹 Data Analysis Project 2
-- Worked with structured datasets  
-- Identified key trends and insights using Python  
-- Used data visualization techniques to present findings  
-- Focused on data-driven decision-making  
+- Analyzed beer production volume data using Python (Pandas)
+- Cleaned and prepared the dataset for analysis
+- Performed time series analysis to identify trends and seasonal patterns
+- Visualized production changes over time using line charts
+- Interpreted patterns to understand fluctuations in beer production 
 
 👉 Open in Colab:  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16HEmHtdJjrmBHwEogzckixlcbs1U89bT)
