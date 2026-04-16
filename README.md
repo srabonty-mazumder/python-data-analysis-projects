@@ -16,12 +16,17 @@ This repository contains my data analysis projects built using Python and Google
 
 ## 📁 Projects
 
-### 🔹 Exploratory Data Analysis Project
-- Cleaned and processed raw data using Pandas  
-- Performed exploratory data analysis to identify patterns and trends  
-- Created visualizations to communicate insights clearly  
-- Generated meaningful conclusions from data  
+### 🔹 Project 1: Exploratory Data Analysis
 
+In this project, I performed a complete exploratory data analysis workflow:
+
+- Imported and explored the dataset to understand its structure  
+- Cleaned the data by handling missing values and formatting issues  
+- Used Pandas to filter, group, and summarize the data  
+- Analyzed relationships between variables to identify patterns  
+- Created visualizations (bar charts, histograms, etc.) using Matplotlib/Seaborn  
+- Interpreted the results to generate meaningful insights from the data
+  
 👉 Open in Colab:  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H04YgEKdaQcT9slvJt47FSLWoztwnS9q)
 
